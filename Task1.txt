@@ -1,0 +1,6 @@
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
+DevOpa aims to shorten the systems development life cycle and that provide continuous delivery with high software quality.
+DevOps is complementary to Agile software development; several DevOps aspects came from the Agile way of working.
+DevOps is a combination of specific practices, culture change, and tools that is easy to use and understand.
+Automation is a core principle for achieving DevOps success and CI/CD that is a critical component.
+DevSecOps is an augmentation of DevOps to allow for security practices to be integrated into the DevOps approach that helps the org.
